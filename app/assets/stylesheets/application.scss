@@ -1,0 +1,18 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.float-none {
+  float: none;
+}
+
+.panel-heading {
+  padding: 15px;
+  h4 {
+    margin: 0px;
+  }
+}
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
